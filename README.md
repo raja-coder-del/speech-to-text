@@ -85,3 +85,7 @@ these websites convert audio files into wav files . just go through the website 
 
 ![Image](https://github.com/user-attachments/assets/33eddfaf-b29a-4f82-a026-bb2d851207a2)
 
+==============================================================================================
+                                                                                                   For any quries and issues contact me:
+                                                                                                   tekiraja143@gmail.com
+
