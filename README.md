@@ -74,3 +74,10 @@ Multilingual Support: Facilitating translation and communication across differen
 Speech-to-text technology continues to evolve rapidly, becoming more accurate, versatile, and integrated into our daily lives
 
 ## audio file
+
+note: audio file must be stored in .wav extension . we can conver our own audio files(mp3 files) into .wav files by using many software extension
+and free websites
+I used websites : https://cloudconvert.com/wav-converter
+
+these websites convert audio files into wav files . just go through the website and select file which want change and select .wav file format and click on change file and download the wav file.
+
