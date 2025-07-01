@@ -81,3 +81,7 @@ I used websites : https://cloudconvert.com/wav-converter
 
 these websites convert audio files into wav files . just go through the website and select file which want change and select .wav file format and click on change file and download the wav file.
 
+# output#
+
+![Image](https://github.com/user-attachments/assets/33eddfaf-b29a-4f82-a026-bb2d851207a2)
+
